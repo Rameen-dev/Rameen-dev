@@ -1,8 +1,8 @@
 # Hi, I’m Rameen Burdabar 👋
 
-🎓 First-year Software Engineering Student @ Sheffield Hallam University  
+🎓 Software Engineering Student @ Sheffield Hallam University  
 💻 Passionate about full-stack development & automation  
-🏆 Group project awarded 1st place (2025)  
+🏆 Group project awarded 1st place (2025) at Sheffield Hallam Computer Science Fair 2025.
 🧮 Creator of [SmartCalc](https://github.com/R56123/smartcalc) – a modern, animated scientific calculator
 
 ---
