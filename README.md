@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I’m Rameen Burdabar 👋
 
-<!--
-**R56123/R56123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Software Engineering Student @ Sheffield Hallam University  
+💻 Passionate about full-stack development & automation  
+🏆 Group project awarded 1st place (2025)  
+🌐 Creator of [SmartCalc](https://github.com/R56123/smartcalc) – a modern, animated scientific calculator  
 
-Here are some ideas to get you started:
+**Tech Stack:**  
+`C#` `JavaScript` `SQLite` `HTML/CSS` `Node.js` `PHP`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me on:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rameenburdabar)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/R56123)
+
+---
+⭐ _Always learning. Always building._
