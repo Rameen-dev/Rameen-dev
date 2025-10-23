@@ -8,7 +8,7 @@
 ### 🧭 About Me
 
 I’m a dedicated and ambitious software engineering student focused on building systems that solve real-world problems.  
-My work blends technical precision with creativity — from designing healthcare management tools to building Discord automation systems and AI-driven projects.
+My work blends technical precision with creativity, from designing healthcare management tools to building Discord automation systems and AI-driven projects.
 
 I’m currently developing hands-on experience in:
 - **Full-Stack Development** with Next.js, Node.js, and PostgreSQL  
@@ -70,7 +70,7 @@ I’m passionate about turning ideas into reliable, scalable solutions while con
 ### 🤝 Connect with Me
 
 - 💼 [LinkedIn – Rameen Burdabar](https://www.linkedin.com/in/rameen-burdabar/)
-- 📧 **rameenburdabar@gmail.com** (for professional inquiries)
+- 📧 **r.burdabar@gmail.com** (for professional inquiries)
 - 🌐 *Portfolio website coming soon*
 
 ---
