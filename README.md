@@ -30,7 +30,6 @@ I’m passionate about turning ideas into reliable, scalable solutions while con
 | **Nine Eight Club Discord Bot** | A community automation bot with ticketing, leveling, leaderboards, and AI chat integration. | `Node.js` `Discord.js` `MongoDB` |
 | **Quantum Diabetes Classifier (Hackathon)** | Machine learning and quantum computing integration to classify diabetes data using PennyLane. | `Python` `PennyLane` `scikit-learn` |
 
-> Portfolio coming soon...
 ---
 
 ### 🧰 Tech Stack
