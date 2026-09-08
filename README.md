@@ -45,15 +45,6 @@ I’m passionate about turning ideas into reliable, scalable solutions while con
 
 ---
 
-### 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rameen-dev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Rameen's GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen-dev&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150">
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 - 💼 [LinkedIn – Rameen Burdabar](https://www.linkedin.com/in/rameen-burdabar/)
